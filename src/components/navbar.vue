@@ -13,10 +13,8 @@
                 </div>
                 <div class="flex items-center justify-between gap-48 sm:items-stretch sm:justify-start">
                     <div class="flex flex-shrink-0 items-center">
-                        <img class="block h-8 w-auto lg:hidden" src="../../public/img/logo - footer.svg"
-                            alt="Your Company" />
-                        <img class="hidden h-8 w-auto lg:block" src="../../public/img/logo - footer.svg"
-                            alt="Your Company" />
+                        <img class="block h-8 w-auto lg:hidden" src="/public/img/logo - footer.svg" alt="Your Company" />
+                        <img class="hidden h-8 w-auto lg:block" src="/public/img/logo - footer.svg" alt="Your Company" />
                     </div>
                     <div class="hidden sm:ml-6 sm:block">
                         <div class="flex space-x-4">
