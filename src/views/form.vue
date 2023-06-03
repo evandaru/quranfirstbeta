@@ -2,7 +2,7 @@
     <form @submit.prevent="formSubmit" class="bg-blue-600 p-10">
         <div class="flex flex-row justify-center items-center bg-slate-100 rounded-md gap-96 py-10">
             <div>
-                <img class="w-72" src="../../public/img/PNG4.png" alt="">
+                <v-img class="w-72" src="/public/img/PNG4.png" alt="" />
             </div>
             <div class="flex flex-col gap-6 w-96">
                 <div class="font-extrabold text-3xl font-mono text-center">Daftar Quran First</div>

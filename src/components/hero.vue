@@ -21,9 +21,9 @@
             </div>
         </div>
         <div class="flex align-center justify-center items-center">
-            <img class=""
+            <v-img class=""
                 src="https://lcdn-hk.icons8.com/c/l5iRQZpxtU2NazJJ4R8HIQ/b1bb569c771479d893e13ebd5de3af02b6695e61.png"
-                alt="">
+                alt="" />
         </div>
     </div>
 </template>

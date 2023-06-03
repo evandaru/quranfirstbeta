@@ -3,7 +3,7 @@
         <div class="flex flex-row h-screen px-28 justify-center gap-20 items-center bg-red-200 ">
 
             <div class="bg-white rounded-md flex flex-col" v-for="item in data">
-                <img class="w-64" :src="item.image" alt="">
+                <v-img class="w-64" :src="item.image" alt="" />
                 <div>
                     <div class="py-5 px-3">
                         <p class="font-bold text-2xl">
