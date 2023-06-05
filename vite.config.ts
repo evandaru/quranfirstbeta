@@ -7,10 +7,10 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: '',
+        target: 'https://script.google.com/macros/s/AKfycbzqW-YpwEcTSS8UI2Ge11XkZXv57KTyu45uDw9nLGbh7jBNPFnCqoGkSxYOXx25HsuedA/exec?',
         changeOrigin: true,
         headers: {
-          // Referer: 'http://localhost:5173',
+          Referer: 'https://quranfirstbeta.vercel.app',
           "Access-Control-Allow-Origin": "*"
         }
       }
