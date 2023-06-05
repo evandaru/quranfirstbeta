@@ -5,7 +5,7 @@
                 <v-img class="w-72" src="/public/img/PNG4.png" alt="" />
             </div>
             <div class="flex flex-col gap-6 w-96">
-                <div class="font-extrabold text-3xl font-mono text-center">Daftar Quran First</div>
+                <div class="font-extrabold text-3xl font-mono text-center">Daftar Quran First22</div>
                 <input placeholder="Nama" type="text" v-model="formData.nama"
                     class="rounded-full font-bold px-7 py-3 bg-gray-200 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-600 transition-all duration-200">
                 <select v-model="formData.jenis_kelamin"
