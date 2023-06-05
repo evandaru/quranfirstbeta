@@ -151,7 +151,7 @@
 import axios from 'axios'
 import { ref } from 'vue'
 
-const link = "/api?action=insert"
+const link = "https://script.google.com/macros/s/AKfycbzqW-YpwEcTSS8UI2Ge11XkZXv57KTyu45uDw9nLGbh7jBNPFnCqoGkSxYOXx25HsuedA/exec?action=insert"
 const formData = ref({
     nama: "",
     jenis_kelamin: "",
